@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Assignments
 
 ###Assignment 1
@@ -5,3 +6,6 @@
 - Learn syntax of YML and write what each line mean and do.
 
 
+=======
+READ ME
+>>>>>>> 432bf61 (First commit)
